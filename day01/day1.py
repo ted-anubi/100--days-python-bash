@@ -1,0 +1,6 @@
+print("My name is Teddy Anubi")
+print("I am learning python")
+print("In 12months I will be a cloud security engineer")
+print("I am from Mombasa,Kenya")
+print("I am learning python to understand automation and security concepts easily")
+print("I want one day to become a senior cloud security architect")
